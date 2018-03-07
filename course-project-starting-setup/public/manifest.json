@@ -1,0 +1,18 @@
+{
+    "name" : "Aplikasi Jomlo",
+    "short_name": "PWANF",
+    "start_url": "/index.html", // pertama kali di akses
+    "display": "standalone",
+    "orientation": "potrait-primary",
+    "theme_color": "#db5757",
+    "background_color": "#fff",
+    "description": "aplikasi Orang Jomlo",
+    "icons": [
+        {
+            "src": "",
+            "type":"",
+            "size":"192X192"
+        }
+    ]
+
+}
